@@ -22,3 +22,5 @@ How to open trought Microsoft Visual Studio:
 - Click open file
 - Find the folder that you have been saved serial comunications test RS48 project.
 - file name: serial comunications test RS48.vbproj
+
+Programming of this user interface based on Visual Basic language.
