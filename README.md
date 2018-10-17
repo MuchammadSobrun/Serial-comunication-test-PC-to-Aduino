@@ -4,6 +4,8 @@ Using VB.net 2015
 
 ![serial](https://user-images.githubusercontent.com/38030453/47060128-821e8b80-d1f6-11e8-8ebb-6f7466a076db.JPG)
 '''
+Here is the code
+
 Imports System.Diagnostics.Eventing
 Imports System.IO.Ports
 Imports System.Runtime.InteropServices
@@ -161,7 +163,7 @@ Public Class Form1
     Private Sub Button1_Click_1(sender As Object, e As EventArgs) Handles Button1.Click
         RichTextBox1.Text = ""
     End Sub
-
 End Class
 
+form code
 '''
